@@ -1,1 +1,1 @@
-# Architecture Manual
+# Enterprise Architecture Manual
