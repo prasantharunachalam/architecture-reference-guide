@@ -5,7 +5,7 @@
   ## Benefits and Objectives
 
 # Enterprise Architecture Frameworks
-  ## Introduction to Frameworks (e.g., TOGAF, Zachman)
+  ## Introduction to Frameworks
   ## Selecting the Right Framework
   ## Framework Components and Methodologies
 
