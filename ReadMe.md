@@ -11,12 +11,11 @@
 
 # Enterprise Architecture Domains
   ## Business Architecture
-  ## Technology Architecture
+  ## Technical Architecture
   ## Information Architecture
   ## Security Architecture
   ## Deployment Architecture
   
-
 # Enterprise Architecture Governance
 
 # Tools
