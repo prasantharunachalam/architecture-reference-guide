@@ -1,22 +1,22 @@
-# Enterprise Architecture Manual
+# Architecture Reference Guide
 
 # Overview
-  ## What is Enterprise Architecture?
+  ## What is Architecture & Types?
   ## Benefits and Objectives
 
-# Enterprise Architecture Frameworks
+# Architecture Frameworks
   ## Introduction to Frameworks
   ## Selecting the Right Framework
   ## Framework Components and Methodologies
 
-# Enterprise Architecture Domains
+# Architecture Domains
   ## Business Architecture
   ## Technical Architecture
   ## Information Architecture
   ## Security Architecture
   ## Deployment Architecture
   
-# Enterprise Architecture Governance
+# Architecture Governance
 
 # Tools
 
