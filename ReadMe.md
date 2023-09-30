@@ -1,7 +1,7 @@
 # Architecture Reference Guide
 
 # Overview
-  ## What is Architecture & Types?
+  ## Architecture & Types
   ## Benefits and Objectives
 
 # Architecture Frameworks
